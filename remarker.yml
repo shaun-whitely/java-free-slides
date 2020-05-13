@@ -1,0 +1,5 @@
+cssFiles:
+  - style.css
+remarkConfig:
+  slideNumberFormat: ''
+  highlightStyle: rainbow

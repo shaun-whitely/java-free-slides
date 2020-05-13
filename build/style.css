@@ -1,0 +1,57 @@
+/*
+$color1: #ead2acff;
+$color2: #df928eff;
+$color3: #c58882ff;
+$text: #d1dedeff;
+$bg: #1d201fff;
+*/
+
+
+.remark-slide-content {
+  background-color: #1d201fff;
+  color: #d1dedeff;
+  font-size: 36px;
+  padding: 1em;
+}
+
+.remark-slide-content em {
+  color: #ead2acff;
+}
+
+.remark-slide-content a,
+.remark-slide-content a:hover,
+.remark-slide-content a:focus,
+.remark-slide-content a:visited {
+  color: #d1dedeff;
+}
+
+.remark-code {
+  font-size: 24px;
+}
+
+.description-vs-execution {
+}
+
+.description-vs-execution > div {
+  float: left;
+  padding: 8px;
+  margin: 8px;
+}
+
+.description-vs-execution > div:first-child {
+  border-right: 8px solid #d1dedeff;
+  height: 512px;
+}
+
+.description-vs-execution .description {
+  margin-top: 146px;
+  padding: 32px 16px;
+  background: #c58882ff;
+}
+
+.description-vs-execution .interpreter {
+  background: #88c582ff;
+  margin: 16px 0;
+  padding: 32px 16px;
+  color: #1d201fff;
+}
